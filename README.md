@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-<!-- null_commit -->
+null_commit
