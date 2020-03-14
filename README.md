@@ -24,7 +24,7 @@
 
 ### Association
 - belongs_to :item
-- has_many :sub_category
+- has_many :sub_categories
 
 
 ## sub_categories table
@@ -36,7 +36,7 @@
 
 ### Association
 - belongs_to :main_category
-- has_many :sub2_category
+- has_many :sub2_categories
 
 
 ## sub2_categories table
